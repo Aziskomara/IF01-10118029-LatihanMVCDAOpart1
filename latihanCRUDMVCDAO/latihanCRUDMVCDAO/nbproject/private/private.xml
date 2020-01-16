@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/acer/Downloads/IF01-10118029-LatihanMVCDAO/latihanCRUDMVCDAO/latihanCRUDMVCDAO/src/edu/aziskomara/latihanmvcjdbc/service/PelangganDAO.java</file>
+            <file>file:/C:/Users/acer/Downloads/IF01-10118029-LatihanMVCDAO/latihanCRUDMVCDAO/latihanCRUDMVCDAO/src/edu/aziskomara/latihanmvcjdbc/model/PelangganModel.java</file>
+            <file>file:/C:/Users/acer/Downloads/IF01-10118029-LatihanMVCDAO/latihanCRUDMVCDAO/latihanCRUDMVCDAO/src/edu/aziskomara/latihanmvcjdbc/impl/pelangganDAOIMPL.java</file>
+            <file>file:/C:/Users/acer/Downloads/IF01-10118029-LatihanMVCDAO/latihanCRUDMVCDAO/latihanCRUDMVCDAO/src/edu/aziskomara/latihanmvcjdbc/entity/pelanggan.java</file>
+            <file>file:/C:/Users/acer/Downloads/IF01-10118029-LatihanMVCDAO/latihanCRUDMVCDAO/latihanCRUDMVCDAO/src/edu/aziskomara/latihanmvcjdbc/view/MainViewPelanggan.java</file>
+            <file>file:/C:/Users/acer/Downloads/IF01-10118029-LatihanMVCDAO/latihanCRUDMVCDAO/latihanCRUDMVCDAO/src/edu/aziskomara/latihanmvcjdbc/database/kingsbarbershopDatabase.java</file>
+            <file>file:/C:/Users/acer/Downloads/IF01-10118029-LatihanMVCDAO/latihanCRUDMVCDAO/latihanCRUDMVCDAO/src/edu/aziskomara/latihanmvcjdbc/model/TabelPelangganModel.java</file>
+            <file>file:/C:/Users/acer/Downloads/IF01-10118029-LatihanMVCDAO/latihanCRUDMVCDAO/latihanCRUDMVCDAO/src/edu/aziskomara/latihanmvcjdbc/event/PelangganListener.java</file>
+            <file>file:/C:/Users/acer/Downloads/IF01-10118029-LatihanMVCDAO/latihanCRUDMVCDAO/latihanCRUDMVCDAO/src/edu/aziskomara/latihanmvcjdbc/error/PelangganException.java</file>
+            <file>file:/C:/Users/acer/Downloads/IF01-10118029-LatihanMVCDAO/latihanCRUDMVCDAO/latihanCRUDMVCDAO/src/edu/aziskomara/latihanmvcjdbc/controller/PelangganController.java</file>
+            <file>file:/C:/Users/acer/Downloads/IF01-10118029-LatihanMVCDAO/latihanCRUDMVCDAO/latihanCRUDMVCDAO/src/edu/aziskomara/latihanmvcjdbc/main/Main.java</file>
+            <file>file:/C:/Users/acer/Downloads/IF01-10118029-LatihanMVCDAO/latihanCRUDMVCDAO/latihanCRUDMVCDAO/src/edu/aziskomara/latihanmvcjdbc/view/PelangganView.java</file>
+        </group>
+    </open-files>
+</project-private>
